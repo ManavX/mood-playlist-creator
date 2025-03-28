@@ -20,9 +20,10 @@ Built with:
 
 ## 🛠️ Getting Started
 
-# 1. Clone the repo
 
 ```bash
+# 1. Clone the repo
+
 git clone https://github.com/YOUR_USERNAME/mood-playlist-creator.git
 cd mood-playlist-creator
 
